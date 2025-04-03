@@ -1,4 +1,4 @@
-## WELCOMEto my Github
+## WELCOME
 
 ## About me  
 Hi Everyone, welcome to my Github, I am Sophie. 
